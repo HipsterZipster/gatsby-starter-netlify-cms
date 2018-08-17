@@ -2,6 +2,7 @@
 templateKey: about-page
 title: About
 ---
+
 # Header 1
 
 ## Header 2
@@ -18,8 +19,6 @@ normal
 2. bullets
 3. bullets
 
-
-
 * list
-* list 
+* list
 * list
